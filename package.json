@@ -1,0 +1,9 @@
+{
+  "name": "oh-my-validator",
+  "version": "0.0.0",
+  "description": "A validator using proxy",
+  "main": "index.js",
+  "repository": "git@github.com:lisiur/oh-my-validator",
+  "author": "lisiurday <lisiurday@gmail.com>",
+  "license": "MIT"
+}
